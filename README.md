@@ -1,4 +1,4 @@
-# Image Array Generator
+# Image to Numbers: Python Implementation
 
 This repository contains a Python script for generating a 6x6 image array representation from an original image and creating new images with randomized rows of colors, which can be scaled up to larger sizes.
 
